@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional — if large or private)
+data/
+*.csv
+*.xlsx
+
+# Environment / package files
+.env
+*.sqlite
+
+# VS Code settings
+.vscode/
