@@ -27,7 +27,7 @@ CFB_NFL_Draft_Predictions_Model-Christian_Vaikona/
 
 
 ## Status
-This project is currently in development. Initial setup and project outline have been created, and data collection/cleaning will be the next phase.
+Currently setting up environment and beginning exploratory data analysis (EDA) with NCAA player stats.
 
 ## Next Steps
 - Identify and source NCAA/NFL datasets  
