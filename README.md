@@ -27,7 +27,8 @@ CFB_NFL_Draft_Predictions_Model-Christian_Vaikona/
 
 
 ## Status
-Currently collecting and documenting raw NFL Draft and college football performance data from Sports Reference. Preparing datasets for exploratory data analysis (EDA) and feature engineering to support predictive modeling.
+Gathered 2021 college football and 2023 NFL draft data.
+Beginning exploratory data analysis (EDA) to inspect, clean, and understand data structure.
 
 ## Next Steps
 - Identify and source NCAA/NFL datasets  
