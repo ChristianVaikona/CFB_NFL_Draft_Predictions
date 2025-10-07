@@ -1,36 +1,72 @@
-# CFB NFL Draft Predictions
+# 🏈 CFB → NFL Draft Predictions
 
-## Overview
-This project explores the relationship between NCAA football player performance and NFL Draft outcomes. The goal is to collect and analyze college football statistics, identify key predictors, and build models that estimate a player's likelihood of being drafted.
+## 📘 Overview
+This project explores the relationship between NCAA football player performance and NFL Draft outcomes.  
+Using data science and machine learning, the goal is to analyze college football statistics, identify key predictors, and build models that estimate a player's likelihood of being drafted.
 
-## Objectives
-- Collect and clean NCAA and NFL draft data
-- Perform exploratory data analysis (EDA) to identify trends
-- Visualize insights with Python libraries
-- Build predictive models using machine learning
-- Compare predictions against actual draft results
+---
 
-## Tools & Technologies
+## 🎯 Objectives
+- Collect and clean NCAA and NFL Draft data  
+- Perform Exploratory Data Analysis (EDA) to uncover trends and relationships  
+- Visualize insights using Python data visualization libraries  
+- Build predictive models to estimate draft outcomes  
+- Compare model predictions against actual NFL Draft results  
+
+---
+
+## 🧰 Tools & Technologies
 - **Programming:** Python, SQL (MySQL)  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
 - **Environment:** Jupyter Notebooks, VS Code  
 - **Version Control:** Git, GitHub  
 
-## Project Structure
+---
+
+## 📂 Project Structure
 CFB_NFL_Draft_Predictions_Model-Christian_Vaikona/
-│── data/ # datasets (raw or cleaned)
-│── notebooks/ # Jupyter notebooks
-│── src/ # Python scripts (if needed later)
-│── README.md # project description
-│── requirements.txt # dependencies
-│── .gitignore # ignored files
+│
+├── data/
+│ ├── raw/ # Original datasets (college & draft data)
+│ └── clean/ # Cleaned datasets ready for analysis
+│
+├── notebooks/ # Jupyter notebooks for EDA and modeling
+│ └── 01_EDA.ipynb
+│
+├── src/ # Python scripts (optional; for reusable functions)
+│
+├── README.md # Project description and documentation
+├── requirements.txt # Dependencies
+└── .gitignore # Ignored files and directories
 
+yaml
+Copy code
 
-## Status
-Gathered 2021 college football and 2023 NFL draft data.
-Beginning exploratory data analysis (EDA) to inspect, clean, and understand data structure.
+---
 
-## Next Steps
-- Identify and source NCAA/NFL datasets  
-- Load and clean data into MySQL and Pandas  
-- Begin exploratory data analysis (EDA)  
+## 📊 Current Status (October 2025)
+- Collected 2021 NCAA season data (Passing, Rushing, Receiving) and 2023 NFL Draft data  
+- Loaded and validated datasets in Pandas  
+- Beginning exploratory data analysis (EDA) to inspect, clean, and understand data structure  
+
+---
+
+## 🚀 Next Steps
+- Clean and standardize NCAA datasets  
+- Merge college player data with draft outcomes  
+- Perform EDA visualizations (e.g., position-based trends, correlations)  
+- Begin initial feature selection and modeling  
+
+---
+
+## 🧠 Author
+**Christian Vaikona**  
+University of San Diego | B.S. Computer Science (Data Science/AI) & Applied Mathematics  
+📍 San Diego, CA  
+[LinkedIn](https://linkedin.com/in/christianvaikona) • [GitHub](https://github.com/ChristianVaikona)
+
+---
+
+## ⚙️ Acknowledgments
+Data sourced from [Sports Reference](https://www.sports-reference.com/).  
+*When using Sports Reference data, please cite and link appropriately.*
