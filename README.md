@@ -45,6 +45,9 @@ Copy code
 ---
 
 ## 📊 Current Status (October 2025)
+
+- CURRENTLY IN MIDTERM WEEK
+
 - Collected 2021 NCAA season data (Passing, Rushing, Receiving) and 2023 NFL Draft data  
 - Loaded and validated datasets in Pandas  
 - Beginning exploratory data analysis (EDA) to inspect, clean, and understand data structure  
