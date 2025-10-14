@@ -46,7 +46,8 @@ Copy code
 
 ## 📊 Current Status (October 2025)
 
-- CURRENTLY IN MIDTERM WEEK
+- CURRENTLY IN MIDTERM WEEK 
+(Have been studying since last week; Progress should return by next Monday Oct. 20)
 
 - Collected 2021 NCAA season data (Passing, Rushing, Receiving) and 2023 NFL Draft data  
 - Loaded and validated datasets in Pandas  
