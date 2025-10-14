@@ -44,7 +44,7 @@ Copy code
 
 ---
 
-## 📊 Current Status (October 2025)
+## 📊 Current Project Status
 
 - CURRENTLY IN MIDTERM WEEK 
 (Have been studying since last week; Progress should return by next Monday Oct. 20)
