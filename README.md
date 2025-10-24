@@ -45,15 +45,15 @@ Copy code
 ---
 
 ## 📊 Current Project Status
-- Collected 2021 NCAA season data (Passing, Rushing, Receiving) and 2023 NFL Draft data  
-- Loaded and validated datasets in Pandas  
+- Collecting 2020-2022 NCAA season data (Passing, Rushing, Receiving) towards 2023 NFL Draft data  
+- Loading and validating datasets in Pandas  
 - Beginning exploratory data analysis (EDA) to inspect, clean, and understand data structure  
 
 ---
 
 ## 🚀 Next Steps
 - Clean and standardize NCAA datasets  
-- Merge college player data with draft outcomes  
+- Merge college player data with draft outcomes (MySQL)
 - Perform EDA visualizations (e.g., position-based trends, correlations)  
 - Begin initial feature selection and modeling  
 
